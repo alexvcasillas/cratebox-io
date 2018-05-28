@@ -464,7 +464,7 @@ myCratebox.dispatch({
 
 Currently Cratebox has a React implementation.
 
-## React
+### React
 
 To make use of Cratebox with React, go to the official [Cratebox React](https://github.com/alexvcasillas/cratebox-react) bindings.
 
@@ -473,9 +473,6 @@ To make use of Cratebox with React, go to the official [Cratebox React](https://
 We have a roadmap for new implementations and this are our intentions:
 
 * Specific State Time Traveling via `travelTo(index: number)` exposed API method.
-* Advanced types in the following order:
-  1.  types.frozen
-  2.  types.literal
 * Lifecycle hooks
   * Before Create via `beforeCreate` model property.
   * After Create via `afterCreate` model property.
