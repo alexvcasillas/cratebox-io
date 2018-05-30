@@ -5,6 +5,7 @@ module.exports = {
     apiKey: '6e016e76c5e513c018dd0cb1ded997c8',
     indexName: 'cratebox-io'
   },
+  ga: 'UA-78795842-5',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
